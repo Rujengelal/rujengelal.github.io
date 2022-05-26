@@ -7,7 +7,7 @@ import Vector2 from "../../img/Vector2.png";
 import boy from "../../img/boy.png";
 import crown from "../../img/crown.png";
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
-import Resume from "../../Rujen-Gelal-cv+(6).pdf";
+import Resume from "../../Rujen-Gelal-cv (2).pdf";
 import { themeContext } from "../../Context";
 
 function Intro() {
